@@ -3,7 +3,7 @@ Basic programming typescript for beginners
 
 Typescript
 
-- [ ] Bahasa Typescript di developed ole Microsoft pads tahun 2012.
+- [ ] Bahasa Typescript di developed oleh Microsoft pads tahun 2012.
 - [ ] Typescript mendukung OOP programming, seperti Class, Object, Interfaces, Inheritance.
 - [ ] Typescript merupakan superset dari javascript dan ECMAscript.
 - [ ] Web browser tidak akan mengerti namanya typescript, maka dari itu typescript akan dijadikan javascript tau bisa disebut “transpiling”
