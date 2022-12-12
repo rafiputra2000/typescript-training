@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Customers_1 = require("./Customers");
+let myCustomers = new Customers_1.Customers("Rafi", "Pramasukma", "Ekhaputera", 100, 2017);
+let firstNames = myCustomers.firstName;
+let middleNames = myCustomers.middleName;
+let lastNames = myCustomers.lastName;
+let myGrades = myCustomers.myGrade;
+let myYearGraduations = myCustomers.myYearGraduation;
+console.log(`${firstNames} ${middleNames} ${lastNames} mempunyai nilai ${myGrades} maka akan lulus tahun ${myYearGraduations}`);
