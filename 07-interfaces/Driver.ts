@@ -18,6 +18,4 @@ for (let array of arrayCoach) {
     console.log(array.getDailyWorkout());
 }
 
-console.log(('B' + 'A' + 'N' + 'A' + 'N' + 'A').toLowerCase());
-
 
